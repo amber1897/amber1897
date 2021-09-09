@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Amber.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning SQL, Python, Tableau, Machine Learning
+- 📫 Reach me on amberkumar902@gmail.com
